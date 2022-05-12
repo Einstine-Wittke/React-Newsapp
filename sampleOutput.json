@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Dev",
+            "title": "Your Movie Preferences Will Tell Me Exactly Where You Are On Introverted And Extroverted Scale",
+            "description": "Introverts take the aisle seats, obviously.",
+            "url": "https://www.buzzfeed.com/devde828/your-movie-preferences-will-tell-me-exactly-where-you-are",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/1/20/enhanced/e6962d6ecf69/original-2254-1648844313-9.jpg?crop=3000:1575;0,0%26downsize=1250:*",
+            "publishedAt": "2022-04-06T18:52:22.306523Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Erich Schwartzel",
+            "title": "Why It’s Guys’ Night Out at the Movies",
+            "description": "Studios executives are catering to the audience that shows up most to “Morbius” and other superhero releases.",
+            "url": "https://www.wsj.com/articles/why-its-guys-night-out-at-the-movies-11649249843?mod=hp_lead_pos5",
+            "urlToImage": "https://images.wsj.net/im-518773/social",
+            "publishedAt": "2022-04-06T17:35:00Z",
+            "content": "LOS ANGELESA new set of heroes is saving the day in Hollywood: young men.\r\nStudios have resumed releasing big-budget films over the past year, and the ones that make the most money are those that dra… [+145 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "Netflix introduces new category after Pete Davidson's 'SNL' musical sketch",
+            "description": "Netflix introduced a new \"short-ass movies\" category after Pete Davidson joked on \"SNL\" about the lack of films that ran less than an hour and 40 minutes.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-introduces-new-category-pete-davidsons-snl-musical-sketch-rcna23197",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220406-Pete-Davidson-al-1008-304def.jpg",
+            "publishedAt": "2022-04-06T16:53:27Z",
+            "content": "Netflix introduced a new \"short-ass movies\" category after Pete Davidson joked about the lack of films that ran less than an hour and 40 minutes in a \"Saturday Night Live\" musical sketch.\r\n\"These day… [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Oli Welsh",
+            "title": "Dune: Spice Wars gets its early access release date",
+            "description": "The real-time strategy game from Shiro Games and Funcom, based on Frank Herbert’s Dune and the recent movie, will feature the Fremen as a playable faction",
+            "url": "https://www.polygon.com/23012919/dune-spice-wars-release-date-early-access",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/HBd1l3FSQ0Q_Wh4SU8iy32vY_7I=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23370732/Early_Access_Launch_Date_Banner.png",
+            "publishedAt": "2022-04-06T13:00:00Z",
+            "content": "Dune: Spice Wars, the new strategy game based on Frank Herberts science-fiction universe and its recent movie adaptation, will launch on Steam Early Access for PC on April 26.\r\nPublisher Funcom and d… [+1455 chars]"
+        },
+        {
+            "source": {
+                "id": "reddit-r-all",
+                "name": "Reddit /r/all"
+            },
+            "author": "Powster",
+            "title": "Sonic The Hedgehog 2 | Official Movie Website | April 08 2022",
+            "description": "Watch the trailer for Sonic The Hedgehog 2 official movie site. In theaters April 8 2022 brought to you by Paramount Pictures. Starring: James Marsden, Ben Schwartz, Tika Sumpter, Natasha Rothwell, Adam Pally, Shemar Moore, Colleen O’Shaughnessey with Idris E…",
+            "url": "https://alb.reddit.com/cr?z=gAAAAABiTN09mij6odd9xtr6r39aMMYONuaSQnE53smSlAF2QNJNpqIojIitP8xFItxv5vhynGiXZOnFx3qYHhVdcjPuIA35vK_O6uwS0x0LYili7hLS3Wf8wDisMP7TumCc9vCDIKjuo-eOnl3lxxrMtTmvUtQlJTHKtXx8R1FSKLXlsFrFT_RwtCebhsFW4lGr9P3MRTdRBEx0esGmpQiar4H_6tVGq_oguYRFmI_0vcSWJDJ62fYfmHDo3FrO5pmSwnr7Qg04UlGMiPFEvMvxocTspiPO1ERWSAwAyK9R4ncF1l57e0ee2Er6K7Ullm1ELov4THxJMMVLccFxxJIVBUA0G7e1urS0zvTsScGuh7Ny9vrHASbHI_O1_A3RAZ98gRHUt4UJlEWGt04xImx52Ce69lyMQH0tEk7StyrzxiErMalJlFwrax13FO5-q193Zzc_1yYra23GnHrYVa5IFt7KR4wRwl4L6tau8HJ4t_Gmq6UiNdFISiHmNGouwFJWPAAClKLdAX8x23ENmFJxuCRB9pnuQM49hgN8a8jfkKrjFa2xM8EN4ofhmRJYuxgAYSUlfHGlR_Ffsj-rSr7MGrzaetw4OanAvsV7CP63ys20KHYein_lhMb7BcjephaOu-Y8dRk8kKCq8Y1nY6Z9eYKmP504RhxPVc3ooEoG3Cg_sd0OovsZUgbeAeAih3UYg4mK1b4OJ4PhUSG7OcLmZC2Q37oz9QPl12bJ71obv6nX0orcd5hmFDN86XXApJg1ZEm5PtIQKmNIuqC61T3bQn2YkAEQQbp214UD4ljy6DAgkdwQ-hUJCab1vKF2djAndj8LpS7KT8VBVOXotQCD68uRuI6EmsxTGqGOVO8CGf9GTRiYPbRAfUOV5rGdACxtW6NCkQgLJbmTwo-4_XvtqBzfTNtAME3OGrxerm2PPq_z840Dil_D5RqYHTe-vR3ktBfODRrU8K8cQY5fHW06tlG2XQgrCwsNrbpYdFyHC_CpdEmSRsstqHumQCDF1VFnR4Ylv47WVbdMr-OHpd_ps05BpHxAIH5ZNpRXX4xEIFDTDij2q58gi9OQsy6olVckg3YBxejCitiSfHg1IBuL3DlFAieK71lyqbM5jN5hOhI5niKJlMC85yWiJMLqmGEofLbC39VQdBe4z_MEg8vHZrxx6iQ1aVSGZE7j9qjuBWeFyEjJQuo1zpFHvIG-MdmntX5QqBdrQN4yIbetyqXG_GoHjTSjaIipR89j21oO5h-i3QrJI2S3D7Z1qHBhcNl709EJ-iWwkexDWK4O31zMSKdGSbQHvYjmJtjlWdxiUc3r6Q0epW5RjKGtNauMuAERYDVt0ZQgCyfRkEdOP1gWCZl-XyctFNKe95QEzoW6QooNrFHqpPxuRrZ9DiWmyiZRndHABcSR9OsdIXL38JvXfy5I3b0QqZzZDiBigaTEY7UlC5YpXcY8qgr7NxRue3AlvrKWublPntV3LnXkR4dMWigUpPk52X8nSDKEHXoF-FH2bO9T5iTroq_y7GLCXh5wrDw4JL9Vd7Ru79_dFGrXHWqBkAAAwGIhTWFaKlwDuQ3RwZKWmiESHQD9EJZY0zxggLdljwPaMu8fIiYG2BrAq68aRlC7C0HJraK-D1dIYYUZA5Q72ZD8lvvLoeSkbCOWZUpNdyDDn5aRN2hip1aX0bnGuGYvxQWwCCHlkJ52JKDfHb0yJIYFmueBnv_45YUR0tW6k0x3J3UFEyYkJEv1cVdzQw_ElQtDl_fLq3l8AmVU7DHUKFELnkYA6ntBAm2VSGMn5_b9amKmazFLq2g5oklW346mWVqllKPTRsVt7GvvUJ1r5mtXZo5YsX3LkTwHyYOB7HC0zJnfygzksCsOaZo1_UuIL0ETk7lXtnHLZqOSUdZ0FyPrmglbfctjctyoPrksHtgmSefPHftjKYSIqeAa6D_4BUvuvPJAf7GK2iBI8YoR9Eq42WIfO9dUIchwiZV4LamU",
+            "urlToImage": "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/sonic-the-hedgehog-2/images/regions/us/share.png",
+            "publishedAt": "2022-04-06T00:22:37.1223513Z",
+            "content": "© 2022 Paramount Pictures and Sega of America, Inc."
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Peter Kafka",
+            "title": "WarnerMedia’s ex-boss Jason Kilar says you should be happy with the decline of movie theaters",
+            "description": "A chat with Jason Kilar on his two-year tenure, the future of movies and more.",
+            "url": "https://www.vox.com/recode/23010765/jason-kilar-warnermedia-movies-streaming-cnn-zucker-q-a",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mo6YBV2XcFtp8OrJY6evA28ycwQ=/0x0:2500x1309/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23285536/B492110D_AA3A_4794_B63C_00BC169F083B.jpeg",
+            "publishedAt": "2022-04-05T15:30:00Z",
+            "content": "Some endings are surprising. This one is not: Jason Kilar, who has run WarnerMedia for the past two years, is leaving the company because it has a new owner who wants to run the entertainment conglom… [+7402 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Peter Kafka",
+            "title": "Why Amazon is buying MGM holdings and James Bond for $8.45 billion",
+            "description": "Amazon has been making its own movies and TV shows for as long as Netflix, without the same success.",
+            "url": "https://www.vox.com/recode/22451787/amazon-mgm-james-bond-streaming-netflix-analysis",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cG4u_JSUC43drZKsMEVgp_PJH1M=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22536883/daniel_craig_james_bond_no_time_to_die.jpeg",
+            "publishedAt": "2021-05-24T21:40:00Z",
+            "content": "Update, March 17: Amazons $8.45 billion deal has closed, and the company announced that MGM will be joining Prime Video and Amazon Studios.\r\nBig tech companies have been eyeing big media companies fo… [+6155 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+            "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+            "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+            "publishedAt": "2019-12-27T16:46:58Z",
+            "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+        }
+    ]
+}
